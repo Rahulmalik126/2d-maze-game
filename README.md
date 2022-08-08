@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # 2d-maze-game
 A 2D maze puzzle game controlled by mouse.</br> 
 >The game was build using unity software.</br>
